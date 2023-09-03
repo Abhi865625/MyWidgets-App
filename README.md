@@ -6,10 +6,6 @@
 
 
 # Demo
-https://github.com/Abhi865625/MyWidgetsApp-Android/assets/93569162/744d056f-cef6-4e30-ab82-ffbcfe0ec826
 
-
-
-
-
+https://github.com/Abhi865625/MyWidgets-App/assets/93569162/e2aadb5b-ca88-4d85-8047-5795bb821fd9
 
